@@ -1,0 +1,14 @@
+/home/roy/projects/rust/chandni/target/debug/deps/libwgpu-2f997fe0d936e3be.rmeta: /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/lib.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/mod.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/wgpu_core.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/context.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/mod.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/belt.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/device.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/encoder.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/init.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/macros.rs
+
+/home/roy/projects/rust/chandni/target/debug/deps/wgpu-2f997fe0d936e3be.d: /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/lib.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/mod.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/wgpu_core.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/context.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/mod.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/belt.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/device.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/encoder.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/init.rs /home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/macros.rs
+
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/lib.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/mod.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/backend/wgpu_core.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/context.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/mod.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/belt.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/device.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/encoder.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/util/init.rs:
+/home/roy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-0.19.4/src/macros.rs:
